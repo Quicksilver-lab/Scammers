@@ -46,7 +46,7 @@ Please ensure that all information provided is accurate and verifiable to the be
 
 Here is a list of scammers with links to detailed information and proofs about their activities:
 
-- [Sada Hussain](scammers/sada_hussain.md)
+- [Sada Hussain](scammers/sada_hussain/sada_hussain.md)
 - [Scammer 2](scammers/scammer2.md)
 - [Scammer 3](scammers/scammer3.md)
 
