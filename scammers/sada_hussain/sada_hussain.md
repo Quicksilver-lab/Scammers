@@ -18,9 +18,9 @@ Sada Hussain pretends to be from the popular TV show "Jeeto Pakistan" and sends 
 
 ## Evidence
 
-- **Voice Messages:** [Vice Message](scammers/sada_hussain/proof/sada_hussain_proof.ogg)
-- **Screenshots:** [Chat SS 1](scammers/sada_hussain/proof/SS.PNG)
-- **Chat Logs:** [Chat SS 2](scammers/sada_hussain/proof/SS1.png)
+- **Voice Messages:** [Vice Message](proof/sada_hussain_proof.ogg)
+- **Screenshots:** [Chat SS 1](proof/SS.PNG)
+- **Chat Logs:** [Chat SS 2](proof/SS1.png)
 
 ## Contact Information
 
