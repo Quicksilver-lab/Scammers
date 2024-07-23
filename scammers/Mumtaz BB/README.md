@@ -27,11 +27,8 @@ Mumtaz B. B. is known for sending fraudulent SMS messages to victims, pretending
 ## Proof Section
 
 We have gathered substantial evidence against Mumtaz B. B., including:
-- **SMS Messages:** Screenshots and logs of the fraudulent messages sent by Mumtaz B. B.
+- **[SMS Messages](proof/SS1.jpeg):** Screenshots and logs of the fraudulent messages sent by Mumtaz B. B.
 - **[Victim Statements](victim_statement.md):** Testimonies from individuals who have been scammed by her.
-- **Phone Records:** Evidence linking the provided phone numbers to her fraudulent activities.
-
-For privacy and security reasons, we are not displaying the proofs here. However, the collected evidence will be shared with the relevant law enforcement authorities and can be made available to verified parties upon request.
 
 ## Important Notice
 
@@ -57,4 +54,4 @@ By raising awareness and sharing this information, we aim to protect the public 
 
 ---
 
-**Quicksilver**  
+**Quicksilver**
