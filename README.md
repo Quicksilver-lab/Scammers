@@ -50,7 +50,7 @@ Here is a list of scammers with links to detailed information and proofs about t
 - [Roshan Ali Lakir](scammers/roshan_ali_lakri/roshan_ali_lakri.md)
 - [Mumtaz BB](scammers/Mumtaz_BB/Mumtaz_BB.md)
 
-(Add more entries as needed)
+(More and More will be added as soon as we Find them!)
 
 ## Disclaimer
 
