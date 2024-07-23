@@ -28,5 +28,4 @@ Mukarram Aziz
 
 ---
 
-**Quicksilver**  
-Justice Fighter
+**Quicksilver**
