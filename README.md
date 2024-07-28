@@ -58,7 +58,7 @@ The information contained in this repository is for general information purposes
 
 ## Contact
 
-If you have any questions, suggestions, or concerns, please contact us at [your email address].
+If you have any questions, suggestions, or concerns, please contact us at hartofstone92@gmail.com.
 
 ---
 
